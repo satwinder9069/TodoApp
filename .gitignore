@@ -1,0 +1,29 @@
+# Android/Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+
+# IntelliJ/Android Studio
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# MacOS
+.DS_Store
+
+# Kotlin/Java
+*.class
+*.log
+
+# Jetpack Compose previews / images
+*.png
