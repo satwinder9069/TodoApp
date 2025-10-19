@@ -21,7 +21,7 @@ A **lightweight Android To-Do app** built with **Jetpack Compose**, featuring **
   - `TaskViewModel.kt` – ViewModel 
 
   - `TaskRepository.kt` – Repository pattern for data  
-  - `Database.kt` – Room database integration  
+  - `AppDatabase.kt` – Room database integration  
 
 ---
 
